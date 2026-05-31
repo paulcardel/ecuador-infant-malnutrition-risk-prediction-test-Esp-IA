@@ -24,6 +24,8 @@ Este repositorio contiene la solución desarrollada para la prueba técnica de E
    * *`sample_submission_malnutrition.csv`
 3. Ejecutar todas las celdas secuencialmente.
 4. El notebook generará automáticamente los archivos de predicción.
+5. Se envía como respaldo un enlace a Google Drive con todos los entregables: https://drive.google.com/drive/folders/1XptQNEGOBzcWFVmNzZDv05r2EQ9RK8_l?usp=sharing
+Nota: Se suben varios archivos para predicciones sample_submission.csv con el objetivo de mostrar diferentes pruebas realizadas, si se considerará la metrica de Accuracy se pide usar submission_threshold_070.csv, si se considera otra métrica como Recall (según lo explicado en el informe) se pide usar submission_threshold_060.csv
 
 ---
 
@@ -35,29 +37,6 @@ Este repositorio contiene la solución desarrollada para la prueba técnica de E
 * Threshold optimizado según el objetivo de evaluación
 
 ---
-
-# Estructura del repositorio
-
-```text
-├── data/
-│   ├── X_train.csv
-│   ├── y_train.csv
-│   ├── X_test.csv
-│
-├── notebooks/
-│   ├── Prediccion_Desnutricion.ipynb
-│
-├── submissions/
-│   ├── submission_final.csv
-│   ├── submission_threshold_060.csv
-│   ├── submission_threshold_070.csv
-│
-├── report/
-│   ├── Informe.pdf
-│   ├── Propuesta_Implementacion.pdf
-│
-├── README.md
-```
 
 ## Autor
 
