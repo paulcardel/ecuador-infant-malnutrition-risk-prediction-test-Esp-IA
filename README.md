@@ -25,6 +25,7 @@ Este repositorio contiene la solución desarrollada para la prueba técnica de E
 3. Ejecutar todas las celdas secuencialmente.
 4. El notebook generará automáticamente los archivos de predicción.
 5. Se envía como respaldo un enlace a Google Drive con todos los entregables: https://drive.google.com/drive/folders/1XptQNEGOBzcWFVmNzZDv05r2EQ9RK8_l?usp=sharing
+
 Nota: Se suben varios archivos para predicciones sample_submission.csv con el objetivo de mostrar diferentes pruebas realizadas, si se considerará la metrica de Accuracy se pide usar submission_threshold_070.csv, si se considera otra métrica como Recall (según lo explicado en el informe) se pide usar submission_threshold_060.csv
 
 ---
